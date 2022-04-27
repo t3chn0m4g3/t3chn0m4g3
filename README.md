@@ -1,1 +1,1 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=t3chn0m4g3&count_private=true&show_icons=true&theme=omni&include_all_commits=true" />
+[![t3chn0m4g3's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3chn0m4g3&count_private=true&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/t3chn0m4g3/t3chn0m4g3)
